@@ -1,0 +1,38 @@
+{
+  "name": "fcc-frontend-local-weather",
+  "version": "1.0.0",
+  "description": "Renders the user's current local weather based on their geolocation",
+  "main": "webpack.config.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "dependencies": {
+    "babel-preset-es2016": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "react-dom": "^16.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grissly-man/fcc-front-local-weather.git"
+  },
+  "keywords": [
+    "freecodecamp",
+    "local",
+    "weather",
+    "frontend",
+    "react",
+    "geolocation",
+    "api",
+    "integration"
+  ],
+  "author": "Logan Griswold (grissly-man)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/grissly-man/fcc-front-local-weather/issues"
+  },
+  "homepage": "https://github.com/grissly-man/fcc-front-local-weather#readme"
+}
