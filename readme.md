@@ -1,3 +1,5 @@
+Working demonstration: [https://grissly-man.github.io/fcc-front-local-weather/](https://grissly-man.github.io/fcc-front-local-weather/)
+
 # Show the Local Weather
 
 Renders the user's current local weather based on their geolocation
